@@ -1,0 +1,10 @@
+Kit:
+    Default:
+        Classitem:
+            Armor:
+                Helmet:
+                    Name: null
+                    Lore: Писун
+                    ID: LEATHER_HELMET
+pizda:
+    typay: y teba mat zdoxla

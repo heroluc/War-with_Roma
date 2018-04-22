@@ -1,0 +1,8 @@
+name: Plugin_war
+main: mainpackage.main.plugin_war
+version: 0.1
+commands:
+  speed:
+    usage: /speed
+  Kit:
+    usage: /kit <Name kit>
